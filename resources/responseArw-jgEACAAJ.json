@@ -1,0 +1,70 @@
+{
+  "kind": "books#volume",
+  "id": "Arw-jgEACAAJ",
+  "etag": "bJYGGqh5gXU",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/Arw-jgEACAAJ",
+  "volumeInfo": {
+    "title": "Il grande Gatsby",
+    "authors": [
+      "Francis Scott Fitzgerald"
+    ],
+    "publisher": "Demetra",
+    "publishedDate": "2016",
+    "description": "Sin dall'inizio del romanzo, quando si apre lo scenario sulle splendide feste nella lussuosissima dimora di Gatsby, su di lui circolano voci tutt'altro che gentili: ha ucciso un uomo... nasconde la sua identità di figlio di un tedesco con losco passato... sicuramente gestisce attività illecite. Praticamente tutti gli ospiti che accorrono alle sue danze pensano, e dicono, male di lui. Una vera folla di ospiti, in gran parte sconosciuti al proprietario... Subito abbiamo il quadro del mondo che Fitzgerald rappresenta: un mondo senza midollo, senza valori, senza moralità. Introduzione di Roberto Mussapi.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "8844043955"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9788844043957"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 224,
+    "printedPageCount": 224,
+    "dimensions": {
+      "height": "20.00 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Classics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=Arw-jgEACAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE72ZC1v1hEkMXiFW_e9R_9zB0xqgSKxiPomKNUIgBx2ELWIJDpANxba8PaKxXdPuaV68wEhir6HRvVnM4zqw3evYTkYvfiGPHgApzRFojXufzTwe9pW3K7aZwBCJgR263PcvX2HT&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=Arw-jgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70-AClkQCnUqPJTfqQtqhZHxEABkqKxDBqsMJZuMYr7z70T1EtUbBJGXQLaYwvkrpO1cg0BsPKQF89RIj7T3FyURIj0IC7lWgBmTKX7HD9vNY5EPFoMm4eJUhRDoJbPf-dOplbX&source=gbs_api"
+    },
+    "language": "it",
+    "previewLink": "http://books.google.it/books?id=Arw-jgEACAAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Arw-jgEACAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Arw-jgEACAAJ"
+  },
+  "saleInfo": {
+    "country": "IT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "IT",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Arw-jgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}

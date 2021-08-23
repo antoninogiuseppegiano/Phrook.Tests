@@ -1,0 +1,70 @@
+{
+  "kind": "books#volume",
+  "id": "_5RCngEACAAJ",
+  "etag": "JO8Kv0SDFnE",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/_5RCngEACAAJ",
+  "volumeInfo": {
+    "title": "Il miglio verde",
+    "authors": [
+      "Stephen King"
+    ],
+    "publisher": "Sperling & Kupfer",
+    "publishedDate": "2013",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "8868360284"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9788868360283"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 556,
+    "printedPageCount": 556,
+    "dimensions": {
+      "height": "20.00 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Horror",
+      "Fiction / Thrillers / Suspense"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=_5RCngEACAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE71AUcgiNamAI7yHUyJDR-CXEj7s5T1Ybd4gD25A8cMrNdjHH9XL87g2-aMyCVta_hPEogPSkduwhPHJJkQzki3um85F4GaGNAfZvH0RWGfJIg9YBMgRMjYjvtv060U-4pXgJyHl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=_5RCngEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71K_GU1vAd4ibserNJGGCsRaQqQW2w6agBG_pXVYF6dXfLDpjnnrfYGsBoQMtlE8Q9iEyGQxEWPoK_u7m0G3XD7mTuZjGl5mnSvZjRKLk8wh7ueDEGmGtUpF6hPc12JwW3vIG0G&source=gbs_api"
+    },
+    "language": "it",
+    "previewLink": "http://books.google.it/books?id=_5RCngEACAAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_5RCngEACAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_5RCngEACAAJ"
+  },
+  "saleInfo": {
+    "country": "IT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "IT",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_5RCngEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}
